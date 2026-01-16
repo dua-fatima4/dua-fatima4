@@ -29,12 +29,5 @@ Mathematician | AI & Machine Learning Learner | Problem Solver
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dua-fatima4&show_icons=true&theme=radical" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [Dua Fatima](https://www.linkedin.com/in/dua-fatima-7483143a4/)
